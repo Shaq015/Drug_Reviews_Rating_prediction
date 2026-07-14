@@ -40,11 +40,3 @@ The final selected models were:
 
 Qwen2.5-7B-Instruct was used to generate short summaries and sentiment labels.  
 Several prompting strategies were tested, and the medical-focused prompt was selected for the final generation.
-
-## Repository Structure
-
-```text
-notebooks/   Main modeling notebooks
-scripts/     GenAI and final output scripts
-figures/     Key result figures
-reports/     Final PDF report
