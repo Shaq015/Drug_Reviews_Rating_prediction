@@ -2,6 +2,7 @@
 
 This project predicts patient drug review ratings from text reviews, drug names, and medical conditions.  
 The task is based on the Drugs.com review dataset and includes both rating prediction and GenAI-based summary/sentiment generation.
+Raw data, model checkpoints, and final Excel outputs are not included in this public repository.
 
 ## Task
 
