@@ -2,9 +2,11 @@ pandas
 numpy
 scikit-learn
 matplotlib
+seaborn
 torch
 transformers
 datasets
 accelerate
+bitsandbytes
 openpyxl
 tqdm
